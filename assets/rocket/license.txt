@@ -1,0 +1,11 @@
+Model Information:
+* title:	Proton K with Zarya ISS Module
+* source:	https://sketchfab.com/3d-models/proton-k-with-zarya-iss-module-061a9d5aeb61497a872c1df0e741e906
+* author:	Soviet Model Magic (https://sketchfab.com/mckadefasel)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Proton K with Zarya ISS Module" (https://sketchfab.com/3d-models/proton-k-with-zarya-iss-module-061a9d5aeb61497a872c1df0e741e906) by Soviet Model Magic (https://sketchfab.com/mckadefasel) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
